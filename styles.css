@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    font-family: Roboto;
+    
+    
+}
+
+.post{
+    display: flex;
+   flex-direction: column;
+    background-color: white;
+    width: 400px;
+    margin: 154px
+      
+    
+        
+}
+.cabeza{
+    display: flex;
+     margin: 5px}
+
+.escudo{
+   width: 25px;
+  height: 25px;
+margin-left: 0px;
+    margin-top: 20px;
+ text-align: center;
+        
+}
+
+.texto{
+    
+}
+.trespuntos{ 
+    margin-left: auto;
+    width: 20px;
+    height: 18px;
+    margin-top: 20px;}
+ 
+.imagen { width: 250 px;}
+ 
+.iconos{
+    display: flex;
+    margin-left: 2px;}
+
+.bookmark{ margin-top:2 px;
+    margin-left: 312px;
+   }
+    
+    .fa-solid{
+        font-size: 20px
+    }
+    
+        
